@@ -1,3 +1,3 @@
 import file
 
-a = file.modfile
+a = file.modpath()
